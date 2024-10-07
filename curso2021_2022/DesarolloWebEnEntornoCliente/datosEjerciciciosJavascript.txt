@@ -1,0 +1,15 @@
+hacer un comprobacion de fecha
+recoger en una variable el dia a dia mes año realizar comprobacion 
+
+mensaje corrrecto
+mensaje erorr
+
+
+
+
+
+
+
+
+console.los();
+
